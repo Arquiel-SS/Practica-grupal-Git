@@ -1,0 +1,14 @@
+header{
+    background-color: #00c86b50;
+    margin-top: 1%;
+    }
+    header img{
+        height: auto;
+        width: 200px;
+    }
+
+    a{
+    font-family: 'Tahoma';
+    font-size: 16px;
+    color:aliceblue;
+    }
